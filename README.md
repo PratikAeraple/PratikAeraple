@@ -39,7 +39,6 @@ I run a blog called [**BruteHack**](https://brutehack.com), where I share my kno
 
 ### 📫 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/pratik-aeraple)
-- [E-Mail] (mailto:pratikaeraple@gmail.com)
 - [Blog](https://brutehack.com)
 
 Thank you for visiting my profile! Feel free to connect or collaborate on exciting opportunities!
