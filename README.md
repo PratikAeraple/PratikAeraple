@@ -17,9 +17,8 @@ I have a passion for creating intuitive and seamless user experiences through be
 ---
 
 ### 🌱 **Currently Learning**:
-- Cloud Architecture (AWS & GCP)
-- DevOps Tools
-- Advanced React.js
+- Cloud Architecture (AWS & AZURE)
+- DevOps Tools (Docker, Kubernetes, Terraform)
 
 ---
 
@@ -29,17 +28,18 @@ I run a blog called [**BruteHack**](https://brutehack.com), where I share my kno
 ---
 
 ### 📊 **GitHub Stats**:
-![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikAeraple&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 **GitHub Streak**:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikAeraple&theme=radical)
 
 ---
 
 ### 📫 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/pratik-aeraple)
+- [E-Mail] (mailto:pratikaeraple@gmail.com)
 - [Blog](https://brutehack.com)
 
 Thank you for visiting my profile! Feel free to connect or collaborate on exciting opportunities!
