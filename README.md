@@ -12,7 +12,7 @@ I hold a **Bachelor's degree in Information Technology** from Mumbai University 
 - **Cloud**: AWS, Google Cloud
 - **Other**: WordPress, Git, GitHub
 
-I have a passion for creating intuitive and seamless user experiences through beautiful user interfaces. Additionally, I am exploring the **world of cloud computing** with a keen interest in **AWS**.
+I have a passion for creating intuitive and seamless user experiences through beautiful user interfaces. Additionally, I am exploring the **world of cloud computing** with a keen interest in **AZURE**.
 
 ---
 
